@@ -1,0 +1,13 @@
+Source: streamlight-antix
+Section: Video
+Priority: optional
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: streamlight-antix
+Architecture: amd64
+Depends: yad, livestreamer, mpv, xclip 
+Description: An easy way to play or download antiX help videos from Youtube without 
+ using a modern, heavyweight, web browser.

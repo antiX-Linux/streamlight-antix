@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Streamlight
+Comment=Play or download videos from supported services 
+Exec=streamlight-gui-launcher.sh
+Icon=streamlight-gui-launcher.png
+Type=Application
+Categories=AudioVideo;
+
+
