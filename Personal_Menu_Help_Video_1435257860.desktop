@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Personal Menu Help Video
+Exec=sh -c "printf 'https://www.youtube.com/watch?v=wwuTtjF6zS0' | xclip | streamlight.sh"
+Icon=/usr/share/antiX/FAQ/images/antix-logo-3.png
+Categories=X-Personal;
+NoDisplay=False
+Terminal=False

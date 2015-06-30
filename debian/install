@@ -3,3 +3,6 @@ icon/*	                          /usr/share/pixmaps
 changelog.gz                      /usr/share/doc/streamlight-antix
 copyright                         /usr/share/doc/streamlight-antix
 streamlight-gui-launcher.desktop  /usr/share/applications/antix
+antiX-help-videos.desktop         /usr/share/applications/antix
+antix_help_videos.html            /usr/share/antiX
+Personal_Menu_Help_Video_1435257860.desktop  /etc/skel/.local/share/applications/TCM
