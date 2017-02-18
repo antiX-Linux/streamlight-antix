@@ -4,10 +4,10 @@ Priority: optional
 Maintainer: anticapitalista <antix@operamail.com>
 Build-Depends: debhelper (>= 9.20120115)
 Standards-Version: 3.9.4
-Homepage: http://antix.mepis.org
+Homepage: https://github.com/antiX-Linux/streamlight-antix
 
 Package: streamlight-antix
-Architecture: amd64
+Architecture: all
 Depends: yad, livestreamer, mpv, xclip 
 Description: An easy way to play or download antiX help videos from Youtube without 
  using a modern, heavyweight, web browser.
