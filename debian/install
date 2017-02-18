@@ -1,7 +1,5 @@
 bin/*                             /usr/local/bin  
 icon/*	                          /usr/share/pixmaps
-changelog.gz                      /usr/share/doc/streamlight-antix
-copyright                         /usr/share/doc/streamlight-antix
 streamlight-gui-launcher.desktop  /usr/share/applications/antix
 antiX-help-videos.desktop         /usr/share/applications/antix
 antix_help_videos.html            /usr/share/antiX
