@@ -1,3 +1,9 @@
+streamlight-antix (0.1.5) unstable; urgency=medium
+
+  * fix broken /bin files to be executable
+ 
+ -- anticapitalista <antix@operamail.com>  Mon, 27 Feb 2017 15:01:54 +0200
+
 streamlight-antix (0.1.4) unstable; urgency=medium
 
   * added more aniX-16 videos and early antiX-17 ones.
