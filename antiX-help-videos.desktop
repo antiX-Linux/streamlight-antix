@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Help
+Name=Help Videos
 Name[ar]=تعليمات
 Name[bg]=Помощ
 Name[ca_ES]=Ajuda
@@ -8,7 +8,6 @@ Name[cs]=Nápověda
 Name[da]=Hjælp
 Name[de]=Hilfe
 Name[el]=Βοήθεια
-Name[en]=Help
 Name[es]=Ayuda
 Name[et]=Abi
 Name[eu]=Laguntza
@@ -45,4 +44,4 @@ Icon=video
 Terminal=false
 Type=Application
 Categories=System;
-NoDisplay=True
+NoDisplay=False
